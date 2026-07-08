@@ -46,9 +46,9 @@ export default function Root() {
           `}
         >
           <IntroduceSection />
-          <ProjectSection />
-          <PartSection />
           <RecruitSection />
+          <PartSection />
+          <ProjectSection />
         </div>
       </motion.main>
     </>
