@@ -28,7 +28,7 @@ export default function Footer() {
             font-size: 0.75rem;
           `}
         >
-          &copy; 2025-2026 Google Developer Groups on Campus SKHU. All rights reserved.
+          &copy; 2026-2027 Google Developer Groups on Campus SKHU. All rights reserved.
         </small>
       </div>
     </footer>
