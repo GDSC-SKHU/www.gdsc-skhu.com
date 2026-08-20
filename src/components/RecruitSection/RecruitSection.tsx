@@ -24,7 +24,6 @@ const PM_RECRUIT_LINK =
   'https://noble-animal-f7e.notion.site/GDG-on-Campus-SKHU-PM-Part-Recruiting-219dacc034638066805fe3267af2c967';
 const DESIGN_RECRUIT_LINK =
   'https://noble-animal-f7e.notion.site/GDG-on-Campus-SKHU-Design-Part-Recruiting-226dacc0346380da84a3da41f713d46a';
-const CORE_RECRUIT_LINK = 'https://forms.gle/GjcS5ma2RqudXypXA';
 
 export default function RecruitSection() {
   return (
@@ -45,7 +44,6 @@ export default function RecruitSection() {
       </div>
 
       <div css={buttonWrapCss}>
-        <RecruitAnchor href={CORE_RECRUIT_LINK} text="🧭 26-27 Core 멤버 지원하기" />
         {/* <RecruitAnchor href={PM_RECRUIT_LINK} text="🧭 PM 파트 멤버 지원하기" disable /> 
         <RecruitAnchor href={DESIGN_RECRUIT_LINK} text="🎨 Design 파트 멤버 지원하기" disable />
         <RecruitAnchor href={WEB_RECRUIT_LINK} text="🌎 Web 파트 멤버 지원하기" disable />
